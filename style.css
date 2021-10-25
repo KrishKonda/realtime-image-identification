@@ -6,7 +6,7 @@
 }
 .heading_div{
     float:none;
-    background:lightcoral;
+    background:lawngreen;
     padding:10px;
     border-radius:20px;
     color:darkslategray;
@@ -14,4 +14,23 @@
 }
 .heading_div2{
     font-size:18px;
+}
+.result_para_tag{
+    font-size:20;
+box-shadow: 5px 5px 5px orangered;
+}
+.copy_right_footer{
+    position:fixed;
+    color:palegreen;
+    bottom:0;
+    width:100%;
+    background-color:tomato;
+    line-height:3;
+    text-align:center;
+}
+canvas{
+    border:5px solid gray;
+    border-radius:20px;
+    box-shadow: 5px 5px 15px darkslategray;
+    margin-top:100px;
 }
